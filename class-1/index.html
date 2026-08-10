@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Example</title>
+    <style>
+        /* h1{
+            background-color: red;
+        } */
+    </style>
+</head>
+<body>
+
+    <h1>
+        Hello Students
+    </h1>
+    <button onclick="changeText()">Click me</button> 
+    <button onclick="backToOldText()">Original Text</button>
+
+    <script>
+
+        function changeText(){
+            console.log("changeText function called");
+            alert("Hello students")
+            document.querySelector("h1").innerText = "Welcome to Javascript!";
+        }
+
+        function backToOldText(){
+            console.log("backToOldText function called");
+            document.querySelector("h1").innerText = "Hello Students";
+        }
+
+    </script>
+
+
+    
+</body>
+</html>
