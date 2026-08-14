@@ -228,4 +228,50 @@ if(condition){
     failure logic
 }
 
+ladder if-else:
+---------------
+if(condition){
+
+}else if(condition){
+
+}else{
+
+}
+-----------------------------------------------
+
+logical operators:
+-------------------
+
+&& --> AND   --> all condtions should succeed
+|| --> OR  --> any one condition suold succeed
+!  --> NOT  --> opposite
+
+
+success  success =>success
+
+s s s s s s s f
+
+
+&&
+
+true && false --> false
+
+true && true  --> true
+
+
+ture || false || false --> true
+
+!true ==> false
+!false ==> true
+------------------------------
+
+Nullish :
+---------
+??
+
+-----------------
+
+optional chaining(?.) --> safty checking
+------------------------
+safely access nested properties
 
