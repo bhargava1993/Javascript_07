@@ -275,3 +275,130 @@ optional chaining(?.) --> safty checking
 ------------------------
 safely access nested properties
 
+---------------------------------------------------
+
+Function:
+---------
+
+syntax:
+--------
+without argumnets:
+-------------------
+function function_name(){
+    
+    //business logic
+
+    return;
+}
+
+function_name();
+
+with arguments:
+---------------
+
+function marriage(bride, groom, brother, father){
+
+    return;
+}
+
+
+
+marriage("boy","girl","brother");
+
+------------------------------------------------
+
+variables:     var, let, const
+-----------
+var name = "bhargava";
+
+name="harsha";
+
+2015
+ES6:
+----
+ let
+ const
+
+var  ---> redeclare, reassign --> both possible
+let --> reassing ---> value updatation possible
+const --> it is fixed, both not possible
+
+Hosting -> var, function
+TDZ (temporal dead zone)-->  let , const
+
+use strict;
+
+-------------------------------
+
+conditional statements:
+----------------------
+
+1. simple if/else
+2. nested if/else
+3. ladder if/else
+4. Ternary Operator
+
+synax:
+------
+if/else
+-------------
+if(condition){
+ success
+}else{
+    failure
+}
+
+nested if/else:
+----------------
+
+if(condition){
+
+    if(condition){
+         if(condition){
+
+         }else{
+
+         }
+    }
+}else{
+
+}
+
+Ladder if/else:
+----------------
+
+if(){
+
+}else if(){
+
+}else if(){
+
+}else{
+
+}
+
+Ternary Operator/ teny if/ short if/else:
+------------------------------------------
+syntax:
+-------
+(condition)?"success":"failure";
+------------
+let time=7;
+
+if(time === 7){
+    console.log("Good morninng);
+}else{
+    console.log("---")
+}
+
+example:
+--------
+let time=7;
+time === 7 ? console.log("Good morninng): console.log("---");
+
+
+scope of variables:
+--------------------
+Gloabl ---> anywhere you can access
+{} (block) --> inside block only you can access
+ functional --> only inside function

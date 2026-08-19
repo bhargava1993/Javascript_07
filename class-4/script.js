@@ -78,21 +78,37 @@ if(a >= b){
 
 // optional chaining(?.)
 
-var obj={
-    name:"bhargava",
-    comapanyDetails:{
-        companyName:"Zensar"
-    },
-}
+// var obj={
+//     name:"bhargava",
+//     comapanyDetails:{
+//         companyName:"Zensar"
+//     },
+//     age:32
+// }
 
-console.log(obj.name)
-console.log(obj.comapanyDetails.comName.sarlary)
-console.log(obj.address)
-console.log(obj?.address?.city)
+// console.log(obj.name)
+// console.log(obj.comapanyDetails.comName.sarlary)
+// console.log(obj.address)
+// console.log(obj?.address?.city)
+// console.log(obj.age)
 // ----------------------------------
 
 
 
+
+// var discount;
+
+// discount = discount ?? 20;
+
+// console.log(discount)
+
+
+let count = 0;
+console.log(count ?? 10); // ?
+console.log(count || 10); // ?
+
+// console.log(true) // 1
+// console.log(false) //0
 
 
 
