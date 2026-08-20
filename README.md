@@ -401,4 +401,36 @@ scope of variables:
 --------------------
 Gloabl ---> anywhere you can access
 {} (block) --> inside block only you can access
- functional --> only inside function
+functional --> only inside function
+
+Looping statements:
+-------------------
+1. for --> loop
+
+for(let i=0;condition;i++){
+    code block
+}
+
+2. for...of -->loop
+
+for(let item of array){
+    code block
+}
+
+3. for...in -->loop
+
+for(let key in object){
+    code block
+}
+
+4.while -->loop
+
+while(condition){
+ code block
+}
+
+5.do...while -->loop
+
+do{
+    code block
+}while(codition)
