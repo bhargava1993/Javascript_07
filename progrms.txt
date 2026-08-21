@@ -37,9 +37,13 @@ this number is 10
 this number is 20
 
 1.largest number
+
 2.second largest number
 3. prime
-4. 1 -100 prime numbers
+4. 1 - 100 prime numbers
 5. factorial number
 
+
+6. find unique values / with sorting
+7. find duplicate values
 

@@ -150,7 +150,11 @@ By using index values you can able to read the values
 3.unshit - to add values starting
 4.shift - remove the values from starting
 5.length - it will give total numbers of values avaliable in array
-
+6.revers
+7.sort
+8.indexof
+9.include
+10.findIndex
 --------------------------------------
 
 object:
@@ -434,3 +438,19 @@ while(condition){
 do{
     code block
 }while(codition)
+
+
+different types of functions:
+----------------------------
+1. normal function/ named function
+2. arrow functions / es6
+3. function expression/ es6
+4. anonus function/name less function
+5. higher order function
+
+6. IIFe
+7. function curring
+
+8. callback function
+
+pure functions/ improve pure function
