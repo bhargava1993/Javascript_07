@@ -155,6 +155,19 @@ By using index values you can able to read the values
 8.indexof
 9.include
 10.findIndex
+
+advanced:
+---------
+11.foreach
+12.map
+13.filter
+14.reduce
+
+15.split
+16.slice
+17.splice
+
+
 --------------------------------------
 
 object:
