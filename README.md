@@ -167,6 +167,9 @@ advanced:
 16.slice
 17.splice
 
+18.flat
+19.concat
+
 
 --------------------------------------
 
@@ -465,5 +468,6 @@ different types of functions:
 7. function curring
 
 8. callback function
+9. recursive funtion -  A resursive function is a function that calls itself to solve a problem step by step
 
 pure functions/ improve pure function
