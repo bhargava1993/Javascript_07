@@ -168,14 +168,14 @@
 
 // recursive function: A resursive function is a function that calls itself to solve a problem step by step
 
-// function printNumber(num){
+function printNumber(num){
   
-//     if(num > 10){
-//         return ;
-//     }
-//     console.log(num)
-//     printNumber(num+1)
-// }
+    if(10 <= num){
+        return ;
+    }
+    console.log(num)
+    printNumber(num+1)
+}
 
-// printNumber(0)
+printNumber(0)
 

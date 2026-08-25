@@ -163,12 +163,11 @@ advanced:
 13.filter
 14.reduce
 
-15.split
-16.slice
-17.splice
+15.slice
+16.splice
 
-18.flat
-19.concat
+17.flat
+18.concat
 
 
 --------------------------------------
