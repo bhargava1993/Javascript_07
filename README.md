@@ -470,3 +470,39 @@ different types of functions:
 9. recursive funtion -  A resursive function is a function that calls itself to solve a problem step by step
 
 pure functions/ improve pure function
+
+----------------------------------------------------
+synchronous/asynchronous:
+
+synchronous/series: Synchronous means one task at a time, in order.
+
+Synchronous code blocks the next line until the current operation is complted
+
+console.log("task 1");
+console.log("task 2");
+console.log("task 3");
+--------------
+asynchronous: continue doing other work without waiting for that task to finsh.
+
+To achive asynchronous programming in javascript
+
+1. callback: A callback is a function that we pass as an argument to    another function,so that other function can call it later.
+
+2. promises
+3. async/await
+
+4. generatores
+
+5. setTimeout
+
+Event loop:
+-----------
+
+call stack
+web api's
+callback queue
+eventloop/ endless look
+
+process.nexttick
+micro task
+macro task

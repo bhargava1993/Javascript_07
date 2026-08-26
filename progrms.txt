@@ -51,5 +51,6 @@ this number is 20
 9. longest Palindrome in a sentence
 10. number of Palindrome in a sentence
 11. convert each word first letter into uppercase
+12. anagram
 
 
