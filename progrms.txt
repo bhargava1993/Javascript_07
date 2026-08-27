@@ -47,7 +47,7 @@ this number is 20
 6. find unique values / with sorting
 7. find duplicate values
 
-8.longest word in a sentence
+8. longest word in a sentence
 9. longest Palindrome in a sentence
 10. number of Palindrome in a sentence
 11. convert each word first letter into uppercase

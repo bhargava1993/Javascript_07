@@ -488,7 +488,7 @@ To achive asynchronous programming in javascript
 
 1. callback: A callback is a function that we pass as an argument to    another function,so that other function can call it later.
 
-2. promises
+2. promise
 3. async/await
 
 4. generatores
@@ -506,3 +506,22 @@ eventloop/ endless look
 process.nexttick
 micro task
 macro task
+
+------------------------------
+
+promise:
+--------
+A promise is javascript object, By using promise we asynchronous programing
+
+promise has 3 states:
+
+pending -> still working
+
+Fulfilled/resolve -> completed successfully
+
+Rejected  -> failed
+
+
+promise.all
+primise.race
+primise.any
