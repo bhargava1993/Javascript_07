@@ -525,3 +525,19 @@ Rejected  -> failed
 promise.all
 primise.race
 primise.any
+
+----------------------------------------
+Destructuring:
+-------------
+Destructuring is a javascript feature that allows us to extract values from array or object easily and store them in variables.
+
+1. array
+2. object
+-----------------------------
+
+...
+
+
+1.spread Operator - variables - expand , 
+2.rest operator - functions - remeaning values
+
