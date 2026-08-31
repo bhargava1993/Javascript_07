@@ -541,3 +541,7 @@ Destructuring is a javascript feature that allows us to extract values from arra
 1.spread Operator - variables - expand , 
 2.rest operator - functions - remeaning values
 
+
+--------------------------------------
+
+
