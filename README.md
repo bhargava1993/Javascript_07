@@ -544,4 +544,19 @@ Destructuring is a javascript feature that allows us to extract values from arra
 
 --------------------------------------
 
+Timer function:
+-----------------
 
+setTimeout: Run Once After a delay
+setInterval: run every time after spicfic intervel
+clearInterval: it will clear setInterval
+clearTimeOut: it will clear setTimeout
+
+examle: 
+OTP expiration
+Ticket booking sessions
+netBanking
+
+
+Closure:
+-------

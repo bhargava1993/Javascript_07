@@ -42,8 +42,13 @@
 
 35. object/array destructuring?
 
-36. times (setTimeout, setIntervel, clearInterval)
+36. times (setTimeout, setIntervel, clearInterval, clearTimeout)
+setTimeout: Run Once After a delay
 
 37. closer
 
 38. slice, splice,   (split- string)
+
+39. what is memroy leak?
+
+40. what is garbage collection and who is responisible?
