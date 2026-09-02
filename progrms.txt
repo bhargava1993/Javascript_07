@@ -53,4 +53,54 @@ this number is 20
 11. convert each word first letter into uppercase
 12. anagram
 
+Strings:
+-----------
+Reverse string
+Palindrome
+Anagram
+Character frequency
+First non-repeating character
+Longest substring without repeating characters
+Longest palindrome
+Count vowels/consonants
+Remove duplicate characters
+
+Arrays:
+----------------
+Two Sum
+Three Sum
+Missing number
+Duplicate number
+Second largest
+Rotate array
+Merge two arrays
+Merge sorted arrays
+Intersection
+Union
+Flatten array
+Chunk array
+Move zeros to end
+
+Searching / Sorting:
+--------------------
+Linear search
+Binary search
+Bubble sort
+Selection sort
+Insertion sort
+Merge sort
+Quick sort
+
+Recursion
+Factorial - 5*4*3*2*1
+
+Fibonacci - 0 1 1 2 3 5 8 13
+
+Sum of numbers
+Reverse string
+Nested object traversal
+Flatten nested array
+
+[10,20, [1,2,3], 90, [5,6,[10,20]]]
+
 
